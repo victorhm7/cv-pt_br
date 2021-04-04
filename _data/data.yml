@@ -1,0 +1,153 @@
+intro:
+  name: Victor Hugo Malcauskas da Silva
+  title: Consultor de T.I.
+  avatar:
+    display: true
+    path: profile.jpg
+
+contact:
+  email: victorhm7@protonmail.com
+  phone: +55(17)98188-0772
+  whatsapp: +55(17)99113-5791
+  telegram:
+  website: vh.dev.br
+  medium:
+  linkedin: victorhm7
+  github: victorhm7
+  gitlab:
+  bitbucket:
+  twitter: victorhm7
+  stackoverflow:
+  quora:
+  goodreads:
+
+languages:
+  display: true
+  title: Idiomas
+  items:
+    - idiom: Português
+      level: Nativo
+    - idiom: Inglês
+      level: Profissional
+    - idiom: Espanhol
+      level: Basico
+
+interests:
+  display: true
+  title: Interesses
+  items:
+    - item: Tecnologia
+      link:
+    - item: Aviação
+      link:
+    - item: Mecânica
+      link:
+    - item: DIY
+      link:
+    - item: Culturas extrangeiras
+      link:
+    - item: Dirigir e viajar
+      link:
+
+profile:
+  display: true
+  title: Perfil
+  details: |
+    Consultor de Tecnologia analítico, versátil e esforçado, com abordagem
+    técnica em fazer as coisas da maneira correta, sempre insistindo em atingir
+    os melhores resultados. Apaixonado por pesquisar e encontrar solucoes.
+    Altamente experiente com processos corporativos, como gerenciamento e execução.
+    + Análise de Sistemas (4 anos)
+    + Analista de Qualidade (2 anos)
+    + Líder de Suporte Técnico (2 anos)
+    + Gerente de Projetos (1 anos)
+    + Auxiliar de Contabilidade (5 anos)
+
+education:
+  display: true
+  title: Educação e Treinamentos
+  items:
+    - university: Faeca Dom Bosco de Monte Aprazivel
+      time: 2010 - 2013 (incompleto)
+      major: Bacharel em Administração de Empresas
+      degree: Bacharel
+
+    - university: frecodecamp
+      time: 2019 - 2020
+      major: Responsive Web Design
+      degree: Treinamento
+
+    - university: frecodecamp
+      time: 2019 - 2020
+      major: JavaScript Algorithms and Data Scructures
+      degree: Treinamento
+
+    - university: Rocketseat
+      time: 2021 - 2021
+      major: Bootcamps Gostack/Ignite React e Node.js
+      degree: Treinamento
+
+experiences:
+  display: true
+  title: Experiências
+  items:
+    - role: Full Stack Developer
+      time: 2018.09 - 2020.03
+      company: Comprefrota Serviços de Informação
+      tag: co-working com Estt Brasil e Muito Participações
+      location: Tanabi, Brasil
+      details: |
+        Experiência nesta empresa:
+        + Melhoria de SEO e migração para framework Laravel
+        + Consultor de tecnologia para todas as empresas do grupo, análise de sistema para implementações em ERP e Migração para AWS Cloud.
+
+    - role: Analista de Qualidade/Suporte Técnico
+      time: 2009.01 - 2012.01
+      company: Legítima Rio Preto Informática
+      tag:
+      location: São José do Rio Preto - SP
+      details: |
+        Experiência nesta empresa:
+        + Inicialmente como suporte técnico, posteriormente um departamento de de qualidade de software foi criado,
+        onde trabalhei exclusivamente em melhorias de software.
+
+skills:
+  display: true
+  title: Habilidades
+  details: |
+    Trabalhei com estas tecnologias:
+    + Javascript, Typescript, React, Vue (1 ano)
+    + HTML, CSS, Sass (1,5 anos)
+    + API Rest/Restful (1.5 anos)
+    + Node.js, Next.js (1.5 anos)
+    + Docker (1,5 anos)
+    + Kubernetes (1 ano)
+    + Lavarel (1 ano)
+    + Linux, SSH (1.5 anos)
+    + AWS (1,5 anos)
+    + Nginx (1,5 anos)
+    + MySQL/MariaDB (4 anos)
+    + MongoDB (1.5 anos)
+    + Microsoft SQL Server (4 anos)
+    + Delphi/Pascal (1.5 anos)
+    + Scrum (3 anos)
+    + Figma (1.5 anos)
+    + Locaweb, Kinghost, Cloudflare, Vercel, Firebase (2 anos)
+
+evaluation:
+  display: true
+  title: Autoavaliação
+  details: |
+    Desde quando aprendi a ler, me reconheço como um curioso e autodidata. Possuo olhar crítico e reconheço questões sobre lógica, tempo e recursos. Eu acredito que o equilíbrio destas questões encaixa perfeitamente com os desejos do cliente, da empresa ou proprietário.
+
+    Quando iniciei em TI, por motivos pessoais tive que migrar para uma área diferente, mas isto não me deixou desistir do meu objetivo de trabalhar com tecnologia.
+
+    Continuei estudando inglês e cultivando as amizades que me ajudariam a voltar para o mercado de tecnologia.
+
+    Em 2019, finalmente eu voltei aos trilhos, com muito estudo, esforço e satisfação. Olhando para trás nesses dois anos, percebi que pude aprender muito e ainda é uma fração do que posso atingir.
+
+footer:
+  display: false
+
+close: >
+  Sorry, my resume has been hidden.
