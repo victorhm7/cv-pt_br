@@ -30,7 +30,7 @@ languages:
     - idiom: Inglês
       level: Profissional
     - idiom: Espanhol
-      level: Basico
+      level: Básico
 
 interests:
   display: true
@@ -55,7 +55,7 @@ profile:
   details: |
     Consultor de Tecnologia analítico, versátil e esforçado, com abordagem
     técnica em fazer as coisas da maneira correta, sempre insistindo em atingir
-    os melhores resultados. Apaixonado por pesquisar e encontrar solucoes.
+    os melhores resultados. Apaixonado por pesquisar e encontrar soluções.
     Altamente experiente com processos corporativos, como gerenciamento e execução.
     + Análise de Sistemas (4 anos)
     + Analista de Qualidade (2 anos)
@@ -108,7 +108,7 @@ experiences:
       location: São José do Rio Preto - SP
       details: |
         Experiência nesta empresa:
-        + Inicialmente como suporte técnico, posteriormente um departamento de de qualidade de software foi criado,
+        + Inicialmente como suporte técnico, posteriormente um departamento de qualidade de software foi criado,
         onde trabalhei exclusivamente em melhorias de software.
 
 skills:
