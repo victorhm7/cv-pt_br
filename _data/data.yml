@@ -92,13 +92,13 @@ experiences:
   title: Experiências
   items:
 
-  - role: System Analyst
-    time: 2021.04 - present
-    company: Newm Desenvolvimento Mobile
-    location: Sao Jose do Rio Preto, Brazil
-    details: |
-      Experiência nesta empresa:
-      + Análise de sistemas. Do contato inicial com clientes, através da estimativa de tempos, documentação, infraestrutura de código e nuvem, até documentação e compartilhamento de conhecimento com o time, connstruindo o melhor ambiente para a implementação e agilidade.
+    - role: System Analyst
+      time: 2021.04 - present
+      company: Newm Desenvolvimento Mobile
+      location: Sao Jose do Rio Preto, Brazil
+      details: |
+        Experiência nesta empresa:
+        + Análise de sistemas. Do contato inicial com clientes, através da estimativa de tempos, documentação, infraestrutura de código e nuvem, até documentação e compartilhamento de conhecimento com o time, connstruindo o melhor ambiente para a implementação e agilidade.
                                                                                   
     - role: Full Stack Developer
       time: 2018.09 - 2020.03
